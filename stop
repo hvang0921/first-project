@@ -1,0 +1,42 @@
+[33mcommit e8de2899a31838152190cd1728039cefc6fd3d10[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 5f71a35 4838919
+Author: Hue Vang <hvang0921@gmail.com>
+Date:   Mon May 13 22:47:50 2024 -0400
+
+    Merge branch 'master' of https://github.com/hvang0921/first-project
+
+[33mcommit 5f71a35d6e842402a05b30a5c88ba532940ad443[m
+Author: Hue Vang <hvang0921@gmail.com>
+Date:   Mon May 13 22:46:21 2024 -0400
+
+    add home.html
+
+[33mcommit 4838919451ec3a810da992991bfd4ced49e3326a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: hvang0921 <113496112+hvang0921@users.noreply.github.com>
+Date:   Mon May 13 22:39:10 2024 -0400
+
+    Create home.html
+
+[33mcommit 98a0919f87440f319c7736a9f9ad56c5eb9f4499[m
+Author: Hue Vang <hvang0921@gmail.com>
+Date:   Mon May 13 22:27:19 2024 -0400
+
+    First commit
+
+[33mcommit 90c8446c880aeee5454b51edfd3e28683243a9ad[m
+Author: Hue Vang <hvang0921@gmail.com>
+Date:   Mon May 13 21:56:20 2024 -0400
+
+    button click, ignore log files
+
+[33mcommit 5b133316d68b6616ed76c81a6d8fa12ee58811c5[m
+Author: Hue Vang <hvang0921@gmail.com>
+Date:   Mon May 13 21:47:04 2024 -0400
+
+    added JavaScript
+
+[33mcommit 14b5a6c8f8ac8cde3fea7b0896c655e752e440b7[m
+Author: Hue Vang <hvang0921@gmail.com>
+Date:   Mon May 13 21:40:05 2024 -0400
+
+    initial commit
